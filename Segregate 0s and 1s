@@ -21,3 +21,5 @@ public static void main(String[] args) throws Exception {
         System.out.println();
     }
 }
+
+// Here we can also use Arrays.sort(arr); but it will give us O(n log n ) time complexity.
